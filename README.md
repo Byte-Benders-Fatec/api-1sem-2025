@@ -19,3 +19,18 @@ Repositório destinado ao grupo Byte Benders para desenvolvimento da API do quar
 
 :link: [(Voltar ao topo)](#api-1sem-2025)
 
+
+## :calendar: Calendário API
+
+| Status | Evento | Data / Período |
+|:------:|:------:|:--------------:|
+| :heavy_check_mark: | Kick-off Geral | 24/02 a 28/02 |
+| :arrow_right: | Sprint 1 | 10/03 a 30/03 |
+| :hourglass_flowing_sand: | Sprint Review / Planning | 31/03 a 04/04 |
+| :hourglass_flowing_sand: | Sprint 2 | 07/04 a 27/04 |
+| :hourglass_flowing_sand: | Sprint Review / Planning| 28/04 a 02/05 |
+| :hourglass_flowing_sand: | Sprint 3 | 05/05 a 25/05 |
+| :hourglass_flowing_sand: | Sprint Review | 26/05 a 28/05 |
+| :hourglass_flowing_sand: | Feira de Soluções | 29/05 |
+
+:link: [(Voltar ao topo)](#api-1sem-2025)
