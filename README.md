@@ -71,12 +71,15 @@ Portanto, o principal objetivo deste projeto é o desenvolvimento de um sistema 
 ## :building_construction: MPV
 
 **Sprint 1**:
+
 ![Sprint_1](https://github.com/user-attachments/assets/6df7dc87-6ddd-4469-a135-e890fddacdd5)
 
 **Sprint 2**:
+
 ![Sprint_2](https://github.com/user-attachments/assets/4b8d14c7-da9f-419f-a1cf-f2c97d8f1725)
 
 **Sprint 3**:
+
 ![Sprint_3](https://github.com/user-attachments/assets/b2522f79-1d86-4b79-99fc-f79353619b82)
 
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
