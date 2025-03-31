@@ -72,6 +72,7 @@ https://github.com/user-attachments/assets/0ee99730-6dd1-4fb4-b027-ebaa989724f2
 ## 📊 Métricas Do time 
 O andamento das tarefas pode ser visto observando o gráfico Burndown inserido abaixo.
 
-[AGUARDANDO O ENVIO DO GRÁFICO]
+![image](https://github.com/user-attachments/assets/a92636d9-ba2a-4060-bbcd-3d5be5672393)
+
 
 ---
