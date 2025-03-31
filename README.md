@@ -72,7 +72,9 @@ Portanto, o principal objetivo deste projeto é o desenvolvimento de um sistema 
 
 **Sprint 1**:
 
-![Sprint_1](https://github.com/user-attachments/assets/6df7dc87-6ddd-4469-a135-e890fddacdd5)
+
+https://github.com/user-attachments/assets/0ee99730-6dd1-4fb4-b027-ebaa989724f2
+
 
 **Sprint 2**:
 
@@ -102,8 +104,8 @@ Portanto, o principal objetivo deste projeto é o desenvolvimento de um sistema 
 | Status | Evento | Data / Período |
 |:------:|:------:|:--------------:|
 | :heavy_check_mark: | Kick-off Geral | 24/02 a 28/02 |
-| :arrow_right: | Sprint 1 | 10/03 a 30/03 |
-| :hourglass_flowing_sand: | Sprint Review / Planning | 31/03 a 04/04 |
+| :heavy_check_mark: | Sprint 1 | 10/03 a 30/03 |
+| :arrow_right: | Sprint Review / Planning | 31/03 a 04/04 |
 | :hourglass_flowing_sand: | Sprint 2 | 07/04 a 27/04 |
 | :hourglass_flowing_sand: | Sprint Review / Planning| 28/04 a 02/05 |
 | :hourglass_flowing_sand: | Sprint 3 | 05/05 a 25/05 |
