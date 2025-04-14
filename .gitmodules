@@ -1,0 +1,9 @@
+[submodule "rep-database"]
+	path = rep-database
+	url = https://github.com/Byte-Benders-Fatec/api-1sem-2025-database.git
+[submodule "rep-backend"]
+	path = rep-backend
+	url = https://github.com/Byte-Benders-Fatec/api-1sem-2025-backend-2.git
+[submodule "rep-frontend"]
+	path = rep-frontend
+	url = https://github.com/Byte-Benders-Fatec/api-1sem-2025-frontend-2.git
