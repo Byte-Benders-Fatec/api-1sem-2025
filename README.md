@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/0ee99730-6dd1-4fb4-b027-ebaa989724f2
 | :arrow_right: | Sprint 2 | 07/04 a 27/04 |
 | :hourglass_flowing_sand: | Sprint Review / Planning| 28/04 a 02/05 |
 | :hourglass_flowing_sand: | Sprint 3 | 05/05 a 25/05 |
-| :hourglass_flowing_sand: | Sprint Review | 26/05 a 28/05 |
-| :hourglass_flowing_sand: | Feira de Soluções | 29/05 |
+| :hourglass_flowing_sand: | Sprint Review | 26/05 a 30/05 |
+| :hourglass_flowing_sand: | Feira de Soluções | 17/06 |
 
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
