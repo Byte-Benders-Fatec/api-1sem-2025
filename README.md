@@ -78,7 +78,9 @@ https://github.com/user-attachments/assets/0ee99730-6dd1-4fb4-b027-ebaa989724f2
 
 **Sprint 2**:
 
-![Sprint_2](https://github.com/user-attachments/assets/4b8d14c7-da9f-419f-a1cf-f2c97d8f1725)
+
+https://github.com/user-attachments/assets/5cd98a73-fd90-445f-bbef-cd1a49fce5f8
+
 
 **Sprint 3**:
 
