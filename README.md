@@ -108,8 +108,8 @@ https://github.com/user-attachments/assets/5cd98a73-fd90-445f-bbef-cd1a49fce5f8
 | :heavy_check_mark: | Kick-off Geral | 24/02 a 28/02 |
 | :heavy_check_mark: | Sprint 1 | 10/03 a 30/03 |
 | :heavy_check_mark: | Sprint Review / Planning | 31/03 a 04/04 |
-| :arrow_right: | Sprint 2 | 07/04 a 27/04 |
-| :hourglass_flowing_sand: | Sprint Review / Planning| 28/04 a 02/05 |
+| :heavy_check_mark: | Sprint 2 | 07/04 a 27/04 |
+| :arrow_right: | Sprint Review / Planning| 28/04 a 02/05 |
 | :hourglass_flowing_sand: | Sprint 3 | 05/05 a 25/05 |
 | :hourglass_flowing_sand: | Sprint Review | 26/05 a 30/05 |
 | :hourglass_flowing_sand: | Feira de Soluções | 17/06 |
