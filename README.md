@@ -1,6 +1,6 @@
 # 📋 Projeto FAPG - Sprint 2
 
-Sistema de gerenciamento de projetos da FAPG (Faculdade de Administração de Projetos Governamentais), contemplando backend, frontend e banco de dados, com foco em funcionalidades administrativas para coordenadores.
+Sistema de gerenciamento de projetos da FAPG (Fundação de Apoio à Pesquisa de Pós-Graduandos), contemplando backend, frontend e banco de dados, com foco em funcionalidades administrativas para coordenadores.
 
 ---
 
