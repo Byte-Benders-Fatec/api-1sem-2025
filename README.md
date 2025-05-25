@@ -19,8 +19,8 @@ Portanto, o principal objetivo deste projeto é o desenvolvimento de um sistema 
 
 ## :memo: Backlog do Produto
 
-| **Rank** | **Prioridade** | **User Story** | **Estimativa** | **Sprint** | **Requisito do Parceiro** | **Cenário de teste 1** | **Cenário de teste 2** | **Cenário de teste 3** | 
-|----------|----------------|----------------|----------------|------------|---------------------------|------------------------|------------------------|------------------------| 
+| **Rank** | **Prioridade** | **User Story** | **Estimativa** | **Sprint** | **Requisito do Parceiro** | **Cenário de teste 1** | **Cenário de teste 2** | **Cenário de teste 3** |  |
+|----------|----------------|----------------|----------------|------------|---------------------------|------------------------|------------------------|------------------------|  |
 | 1 | Alta           | Como coordenador, eu quero cadastrar um novo projeto na plataforma para que eu possa gerenciar suas atividades e progresso. | 8 horas | Sprint 1 | Cadastrar projetos da FAPG | O sistema deve permitir a inserção de dados do projeto, como nome, descrição e área de atuação, e salvar corretamente no banco de dados. | - | - | 
 | 2 | Alta           | Como coordenador, eu quero cadastrar, atualizar e excluir usuários na plataforma. | 9 horas | Sprint 1 | Cadastrar, editar e excluir usuários | O sistema deve permitir a criação, atualização e exclusão de usuários. | - | - | 
 | 3 | Alta           | Como coordenador, eu quero cadastrar, atualizar e excluir times, além de poder adicionar usuários nos times criados. | 5 horas | Sprint 1 | Cadastrar, editar e excluir equipes | O sistema deve permitir a criação, edição e exclusão de times caso não sejam mais necessários, além de poder adcionar usuários em novos times. | - | - | 
