@@ -1,33 +1,35 @@
-# 📋 Projeto FAPG - Sprint 2
+# 📋 Projeto FAPG - Sprint 3
 
 Sistema de gerenciamento de projetos da FAPG (Fundação de Apoio à Pesquisa de Pós-Graduandos), contemplando backend, frontend e banco de dados, com foco em funcionalidades administrativas para coordenadores.
 
 ---
 
-## 📅 Sprint 2 - Entregas de 07/04 até 27/04
+## 📅 Sprint 3 - Entregas de 05/05 até 25/05
 
-Durante a Sprint 2, o time se concentrou em expandir as funcionalidades de gestão da plataforma, reforçando a segurança, a usabilidade e a robustez das regras de negócio, incluindo:
+Durante a Sprint 3, o time se concentrou em expandir as funcionalidades de gestão da plataforma, reforçando a segurança, a usabilidade e a robustez das regras de negócio, incluindo:
 
-- Implementação de autenticação em duas etapas (2FA) via e-mail
-- Criação da página de Perfil para edição de dados do usuário
-- Ampliação dos vínculos entre projetos e outras entidades
-- Melhorias visuais de hierarquia entre Projetos, Atividades e Tarefas
-- Implementação de regras de negócio para orçamentos e prazos
-- Expansão dos filtros de busca e controle de status ativo/inativo
+- Criação de recurso para recuperação de senha
+- Atribuição de responsável pela atividade, e pessoas associadas a atividade
+- Aclopamento de documentos como um recurso interno de projetos, atividades e tarefas
+- Acoplamento de tarefas como um recurso interno de atividades
+- Implementação de regras de negócios para impedir criar tarefas com custo acima do permitido
+- Implementaçaõ de regras de negócios para impedir que tarefas possuam datas fora do período definido pela atividade
+- Filtro de busca por data (ínicio e fim)
+- Autorização de usuários por tipo de acesso
+- Intgração de IA
 
 ---
 
 ## 🎯 Objetivos da Sprint
 
-- Adição de usuários em Times ✔️
-- Implementar autenticação 2FA ✔️
-- CRUD completo de Instituições ✔️
-- CRUD completo de Áreas ✔️
-- Vincular projetos a Áreas, Times, Instituições e Agências ✔️
-- Definir responsável por projeto (diferente do criador) ✔️
+- Recuperação de senha ✔️
+- Responsável pela atividade ✔️
+- Documentos ✔️
+- Tarefas e controle de orçamentos ✔️
+- Filtro de busca por datas ✔️
 - Controle de orçamentos e prazos em atividades e tarefas ✔️
-- Página de perfil do usuário ✔️
-- Filtros de status e data para atividades ✔️
+- Autorização de usuários ✔️
+- Integração de IA ✔️
 
 ---
 
