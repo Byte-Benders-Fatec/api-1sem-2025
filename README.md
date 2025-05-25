@@ -74,7 +74,7 @@ Durante a Sprint 3, o time se concentrou em expandir as funcionalidades de gest√
 Segue v√≠deo demonstrativo das funcionalidades da Sprint 2, apresentando as novas funcionalidades e melhorias implementadas:
 
 
-https://github.com/user-attachments/assets/5cd98a73-fd90-445f-bbef-cd1a49fce5f8
+
 
 
 ---
