@@ -63,7 +63,7 @@ Durante a Sprint 3, o time se concentrou em expandir as funcionalidades de gest�
 
 ## 📦 Tecnologias Utilizadas
 
-- **Backend**: Node.js, Express, JWT, Nodemailer, MySQL2, Bcrypt, Multer
+- **Backend**: Node.js, Express, JWT, Nodemailer, MySQL2, Bcrypt, Multer, Ollama
 - **Frontend**: React, Vite, TailwindCSS, Lucide React, Axios
 - **Banco de Dados**: MySQL
 
@@ -71,10 +71,10 @@ Durante a Sprint 3, o time se concentrou em expandir as funcionalidades de gest�
 
 ## 🎥 Entrega Visual (MVP)
 
-Segue vídeo demonstrativo das funcionalidades da Sprint 2, apresentando as novas funcionalidades e melhorias implementadas:
+Segue vídeo demonstrativo das funcionalidades da Sprint 3, apresentando as novas funcionalidades e melhorias implementadas:
 
 
-
+https://github.com/user-attachments/assets/6d2361ab-e651-436d-818f-aae50cdf88a4
 
 
 ---
