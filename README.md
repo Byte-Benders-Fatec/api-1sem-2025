@@ -97,7 +97,9 @@ https://github.com/user-attachments/assets/5cd98a73-fd90-445f-bbef-cd1a49fce5f8
 
 **Sprint 3**:
 
-![Sprint_3](https://github.com/user-attachments/assets/b2522f79-1d86-4b79-99fc-f79353619b82)
+
+https://github.com/user-attachments/assets/6d2361ab-e651-436d-818f-aae50cdf88a4
+
 
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
 
